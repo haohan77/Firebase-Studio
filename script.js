@@ -1894,6 +1894,8 @@ function showNotification(message, type = 'info', duration = 5000) {
 
 // ==================== UTILITY FUNCTIONS ====================
 
+
+
 // Make functions globally available
 window.locateUser = locateUser;
 window.openDisasterWarningModal = openDisasterWarningModal;
